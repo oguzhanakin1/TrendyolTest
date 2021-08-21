@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="slf4j-simple">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Selenium/slf4j-simple" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Selenium/slf4j-simple" recursive="false" />
+  </library>
+</component>

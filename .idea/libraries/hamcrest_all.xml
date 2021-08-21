@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hamcrest-all">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Selenium/hamcrest-all" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Selenium/hamcrest-all" recursive="false" />
+  </library>
+</component>
